@@ -17,6 +17,9 @@ sortiert wird. Sobald alles passt, starte den Vorgang. Du kannst die Dateien ent
 je nachdem, ob du die Originale behalten möchtest oder nicht.
 ​
 
+![Das Programm:](/SmartMediaSorter.PNG)
+
+
 Die Regeln im Detail:
 
 ​Jede Regel, die du erstellst, besteht aus drei einfachen Komponenten:
